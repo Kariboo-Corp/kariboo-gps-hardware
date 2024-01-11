@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ConstraintsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <FlattenedNetName2ConstraintNetId />
+  <CNets />
+  <CNetClasses />
+  <CDifferentialPairs />
+  <CDifferentialPairClasses />
+  <CPinPairs />
+  <CxSigClasses />
+  <CxNets />
+  <CXNetClasses />
+  <ConstraintClearancesMatrix>
+    <CCMFromScopes>
+      <CCMFromScope Id="aa6991c4-fe76-4a1e-a772-a47e7feb213b">
+        <ConstraintObject Id="00000000-0000-0000-0000-000000000000" />
+        <CCMToScopes>
+          <CCMToScope Id="9d14354b-ed7b-46f0-b33b-161af8390202" SetId="00000000-0000-0000-0000-000000000000">
+            <ConstraintObject Id="00000000-0000-0000-0000-000000000000" />
+            <DefaultConstraintClearancesMatrixConstraint Id="00000000-0000-0000-0000-000000000000" Kind="0" Name="" Description="" Scope1="" Scope2="" Attributes="" LayerType="0" LayerId="0" />
+            <CCMConstraints />
+          </CCMToScope>
+        </CCMToScopes>
+      </CCMFromScope>
+    </CCMFromScopes>
+  </ConstraintClearancesMatrix>
+  <ConstraintSameNetClearancesMatrix>
+    <CCMFromScopes />
+  </ConstraintSameNetClearancesMatrix>
+  <CSets />
+  <CClearancesMatrixSets />
+</ConstraintsData>
